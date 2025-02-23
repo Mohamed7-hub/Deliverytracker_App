@@ -53,4 +53,4 @@ A modern Android food delivery application that allows users to browse, order, a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/[your-username]/delivery-tracker.git
+(https://github.com/Mohamed7-hub/Deliverytracker_App.git)
