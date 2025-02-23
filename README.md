@@ -27,7 +27,10 @@ A modern Android food delivery application that allows users to browse, order, a
  
   ## Screenshots 📱
 
-![image alt(photo-collage.png (1).png)
+
+![Dashbourd](https://github.com/user-attachments/assets/ec8dd0dd-51ea-4f8a-957e-ab77ead7009a)
+![authentication](https://github.com/user-attachments/assets/9a63b443-7c85-4cad-bb89-cc60af8e0952)
+![cart profile](https://github.com/user-attachments/assets/2f853549-ca97-43f0-bd08-8a3a98e420e8)
 
 ## Technical Details 🛠
 
