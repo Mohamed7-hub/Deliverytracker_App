@@ -27,7 +27,7 @@ A modern Android food delivery application that allows users to browse, order, a
  
   ## Screenshots 📱
 
-![image alt(https://github.com/Mohamed7-hub/Deliverytracker_App/blob/be94ef50744dd850b12c4fc4e3d59021c00d6357/photo-collage.png.png)
+![image alt(photo-collage.png (1).png)
 
 ## Technical Details 🛠
 
